@@ -10,4 +10,4 @@ int main(){
 		printf("It is not a leap year");
 		}
 	return 0;
-	}
+	} 
